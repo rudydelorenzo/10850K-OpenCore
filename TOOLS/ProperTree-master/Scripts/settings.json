@@ -9,5 +9,6 @@
     "comment_strip_prefix": "#",
     "max_undo": 200,
     "drag_dead_zone": 20,
-    "font_size": 13
+    "font_size": 13,
+    "last_version_checked": "0.1.9"
 }
